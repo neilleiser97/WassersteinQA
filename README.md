@@ -8,3 +8,7 @@ Defining a distance between distributions or datasets is crucial for various mac
 # Demo Notebook
 
 [Link to colab notebook](https://colab.research.google.com/drive/1-DXF6nrJRD0B_bf8jwDesYlZf49gBK4t?usp=sharing)
+
+# Datasets
+
+The Datasets used in our research can be downloaded from [the MultiQA repository](https://github.com/alontalmor/MultiQA)
