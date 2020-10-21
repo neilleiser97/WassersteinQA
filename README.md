@@ -7,4 +7,4 @@ Defining a distance between distributions or datasets is crucial for various mac
 
 # Demo Notebook
 
-The demo notebook used to give an overview of our project can be found here: \href{https://colab.research.google.com/drive/1-DXF6nrJRD0B_bf8jwDesYlZf49gBK4t?usp=sharing]}{Demo Netbook}
+[Link to colab notebook](https://colab.research.google.com/drive/1-DXF6nrJRD0B_bf8jwDesYlZf49gBK4t?usp=sharing)
